@@ -10,7 +10,7 @@
 - 📫 How to reach me: yuanhan.peng.work@outlook.com
 
 ### Personal Site & Blog
-- Here is my [Résumé]()
+- Here is my [Résumé](https://drive.google.com/file/d/1Iol5YG3EW6jDVEu5z-UruA6VetqESTNl/view?usp=sharing)
 - Here is my [LinkedIn](https://www.linkedin.com/in/yuanhan-peng-82239018a/) Page
 
 <!---
