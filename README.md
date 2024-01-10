@@ -4,7 +4,7 @@
 ### Self introduction
 - 👋 Hi, I’m @Phyllis-yuanhan
 - 🏫 I am studying at the Rotman School of Management, University of Toronto
-- 🎓 I finished my undergraduate at the University of Toronto with double majors in Mathematics and Economics, minoring in Computer Science
+- 🎓 I finished my undergraduate at the University of Toronto with double majors in Mathematics and Economics
 - 🌱 I’m currently a Master of Management Analytics (MMA) candidate
 - 💞️ I’m looking for a Data Analyst/Data Scientist/Data Consultant Full-time position
 - 👀 I’m interested in playing badminton, singing, cooking
