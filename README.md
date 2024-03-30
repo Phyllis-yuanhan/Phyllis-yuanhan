@@ -17,13 +17,13 @@ Additionally, I have accumulated diverse experience in data science and analytic
 
 
 ## 🛠 Skills
-- **Programming Languages:** Python, R, SQL, SAS
-- **Data Visualization & BI Tools:** Tableau, Excel, MATLAB
+
+- **Programming Languages:** Python, R, SQL, SAS, Stata, Java, C
+- **Data Visualization & BI Tools:** Tableau, Power BI, Excel
 - **Technical Competencies:**  Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Large Language Model (LLM), Gen AI
 - **Soft Skills:** Leadership, Client-Centric, Problem Solving, Innovative Thinking, Cross-Functional Collaboration
 
 ## 📊 Data Science Projects
-
 
 - [Deliverying Fresh Customer Segmentation](https://github.com/Phyllis-yuanhan/Deliverying-Fresh-Customer-Segmentation): In this group project, we launched a business idea centered on delivering organic meal kits. Utilizing Census Canada 2021 data, we applied KMeans clustering for customer segmentation analysis and then developed segmentation models to predict Median Household Income, employing techniques such as Lasso Regression and ANN. Our aim is to excel in the healthy food delivery sector by customizing services to meet diverse customer preferences. As the lead for data analytics and modelling, my role encompasses all aspects from data preprocessing and exploratory data analysis (EDA) to feature engineering and modelling. This includes employing techniques for clustering and prediction models.
 
@@ -34,6 +34,7 @@ Additionally, I have accumulated diverse experience in data science and analytic
 ## 💻 CS Course Projects
 
 - [Organization Management System](https://github.com/Phyllis-yuanhan/Organization-Management-System/)
+- [Grocery Check-Out System](https://github.com/Phyllis-yuanhan/Grocery-Check-Out-System/)
 
 <!---
 Phyllis-yuanhan/Phyllis-yuanhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
