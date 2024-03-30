@@ -36,6 +36,7 @@ Additionally, I have accumulated diverse experience in data science and analytic
 
 - [Organization Management System](https://github.com/Phyllis-yuanhan/Organization-Management-System/)
 - [Grocery Check-Out System](https://github.com/Phyllis-yuanhan/Grocery-Check-Out-System/)
+- [Strategy to Group Students](https://github.com/Phyllis-yuanhan/Strategy-to-group-students)
 
 
 <!---
