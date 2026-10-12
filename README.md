@@ -2,7 +2,6 @@
 
 
 ## 🚀 About Me
-## 🚀 About Me
 
 I'm a **Data Scientist** with a strong quantitative background and hands-on experience in **Machine Learning, Statistical Modeling, and Data Analytics**. Currently working in the banking industry, I focus on developing advanced analytical models, building scalable data pipelines, and designing automated solutions to solve complex business challenges and drive data-informed decision-making.
 
