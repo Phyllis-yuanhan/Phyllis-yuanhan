@@ -2,15 +2,18 @@
 
 
 ## 🚀 About Me
-As a driven and adaptable Data Scientist, I bring a robust foundation to my work through a blend of quantitative education and extensive professional experiences.
+## 🚀 About Me
 
-I earned my Bachelor of Science degree from the University of Toronto, double majoring in Mathematics and Economics, setting the stage for my career in data science. Currently, I am further honing my skills through the Master of Management Analytics program at the Rotman School of Management, University of Toronto, enhancing my expertise in data-driven decision-making. My academic journey has equipped me with advanced quantitative skills, providing a solid footing for my career in data science.
+I'm a **Data Scientist** with a strong quantitative background and hands-on experience in **Machine Learning, Statistical Modeling, and Data Analytics**. Currently working in the banking industry, I focus on developing advanced analytical models, building scalable data pipelines, and designing automated solutions to solve complex business challenges and drive data-informed decision-making.
 
-Additionally, I have accumulated diverse experience in data science and analytics across various industries, including Technology, Finance, Education, and Oil. Driven by a passion for harnessing data-driven insights, I excel in optimizing business processes and driving impactful decision-making to propel organizational success.
+I hold a **Master of Management Analytics (MMA)** from the **Rotman School of Management, University of Toronto**, and an **Honours Bachelor of Science in Mathematics and Economics** from the University of Toronto. My academic background has provided me with a solid foundation in quantitative analysis and data science.
+
+With experience spanning **Finance, Technology, Education, and Energy**, I've worked on diverse projects involving predictive analytics, feature engineering, data processing, and workflow optimization. I enjoy tackling complex problems, transforming data into actionable insights, and developing efficient, scalable solutions that deliver measurable impact.
+
+I'm passionate about **Data Science, Artificial Intelligence, and emerging technologies**, and continuously explore new tools and methodologies to bridge the gap between technical innovation and real-world applications.
 
 
 ## 🔗 Links
-[![Resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1KuU8nts8zO9THnJ8oIwi--2r1lYzEMt6/view?usp=share_link)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuanhan-peng/)
 
@@ -25,9 +28,9 @@ Additionally, I have accumulated diverse experience in data science and analytic
 
 ## 📊 Data Science Projects
 
-- ***(On Going Project) SignSpeak: AI-Driven Sign Language Interpretation***: This project pioneers in developing an automated detection system for translating American and British Sign Language gestures to text. Leveraging Convolutional Neural Networks(CNN), this project targets surpassing 92% accuracy by addressing the challenges of diverse backgrounds and skin tones. Through extensive dataset enrichment and innovative preprocessing techniques, this project aims to revolutionize sign language translation by enhancing model adaptability and setting new benchmarks in accuracy and generalization across sign languages.
+- *** SignSpeak: AI-Driven Sign Language Interpretation***: This project pioneers in developing an automated detection system for translating American and British Sign Language gestures to text. Leveraging Convolutional Neural Networks(CNN), this project targets surpassing 92% accuracy by addressing the challenges of diverse backgrounds and skin tones. Through extensive dataset enrichment and innovative preprocessing techniques, this project aims to revolutionize sign language translation by enhancing model adaptability and setting new benchmarks in accuracy and generalization across sign languages.
 
-- ***(On Going Project) Finance Forecaster: NLP-Powered Investment Strategy Development***: This project applies NLP techniques to analyze earnings call transcripts of public companies to develop investment strategies. Participants will preprocess data, implement TF-IDF, use Word2Vec for semantic analysis, and employ Sentence-BERT in a Retrieval Augmented Generation framework. The final task involves constructing a trading strategy using ML classification, with performance evaluated against a baseline for potential grading benefits. Submissions include code notebooks and results in specified formats.
+- *** Finance Forecaster: NLP-Powered Investment Strategy Development***: This project applies NLP techniques to analyze earnings call transcripts of public companies to develop investment strategies. Participants will preprocess data, implement TF-IDF, use Word2Vec for semantic analysis, and employ Sentence-BERT in a Retrieval Augmented Generation framework. The final task involves constructing a trading strategy using ML classification, with performance evaluated against a baseline for potential grading benefits. Submissions include code notebooks and results in specified formats.
   
 -  [Predictive Marketing Analytics: Promotion Effectiveness Analysis with Machine Learning](https://github.com/Phyllis-yuanhan/Promotion-Effectiveness-Analysis-with-Machine-Learning): This project develops a predictive model using historical transaction and promotion response data to forecast customer reactions to offers. Evaluated with the ROC-AUC, precision, and recall metrics, the XGBoost classifier was chosen for its superior performance. Feature engineering and hyperparameter tuning enhanced the model, with future improvements aimed at exploring advanced features and deeper optimization for better accuracy and predictive power.
 
